@@ -1,0 +1,17 @@
+img {
+	width: 300px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+#main-body{
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+#name{
+	text-align: center;
+}
+#date{
+	text-align: center;
+}
